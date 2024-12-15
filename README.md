@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&duration=1500&pause=1000&color=009BF7&random=false&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome+To+My+Github!;%F0%9F%A7%91Vincent+Entoni%C4%87i;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+;%F0%9F%87%A6%F0%9F%87%B1++Albanian+%7C+%E2%98%AA%EF%B8%8F+Islam+%7C+%F0%9F%A7%93+19" alt="Typing SVG" /></a>
-(https://readme-typing-svg.demolab.com/demo/?weight=500&lines=Welcome+To+My+Github+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Welcome+To+My+Github+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## About Me!
 
