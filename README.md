@@ -3,18 +3,14 @@
 ## About Me!
 
 - 👨🏽‍💻 | I'm a Full-Stack Developer who loves to code! 
-- ☪️ | Islam | :albania: Albanian
 - 🎓 | I'm currently studying Computer Science
-- 🧠 | I'm currently learning Svelte 
 - 💖 | I'm very passionate about development and do it as a hobby!
-- 🧓 | My name is Vincent Entonići and I am currently 19 years old!
-
+- 🗽 | New York | 18 Years old.
 
 ## Contact me!
 <p align = "left">
 	<a href="mailto:hike.meadow580@eagereverest.com"><img src="https://files.catbox.moe/yt28hb.svg" alt = "Gmail"></a>
-    <a href = "https://lookup.guru/448905376998621185"><img src = "https://files.catbox.moe/623ls3.svg" alt = "Discord"></a>
-    <a href = "https://twitter.com/wtfEntity"><img src = "https://files.catbox.moe/sf7xzb.svg" alt = "Twitter"></a>
+    <a href = "https://lookup.guru/342828797650927626"><img src = "https://files.catbox.moe/623ls3.svg" alt = "Discord"></a>
 </p>
 
 
@@ -28,5 +24,5 @@
 
 ## Github Stats
 
-![Entity's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsEntity&show_icons=true&theme=transparent)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsEntity)
+![Grim's GitHub stats](https://github-readme-stats.vercel.app/api?username=grim-03&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grim-03)
